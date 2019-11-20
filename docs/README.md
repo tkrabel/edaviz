@@ -1,1 +1,0 @@
-Please visit [edaviz.com](https://edaviz.com) for information on our docs.
