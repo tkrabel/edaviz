@@ -1,4 +1,6 @@
-# eda[viz](https://youtu.be/eYEeYv11YrQ) - stop coding the same visualizations in seaborn and plotly over and over again!
+# edaviz has been integrated into [bamboolib](https://bamboolib.com/). If you want to use edaviz, please go to [bamboolib.com](https://bamboolib.com/)
+
+eda[viz](https://youtu.be/eYEeYv11YrQ) - stop coding the same visualizations in seaborn and plotly over and over again!
 
 edaviz is a python library for data exploration and visualization in Jupyter Notebook and Jupyter Lab. edaviz provides you with great default visualizations out of the box, to save you time and money.
 
